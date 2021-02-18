@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/pragadeesh2050/docker-react.svg?branch=master)](https://travis-ci.org/pragadeesh2050/docker-react)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
